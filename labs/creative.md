@@ -6,11 +6,14 @@
 
 
 
+![illustration](./assets/beacon_illustration.png)
+
 **A new theory of "Beacons" as they relate to the mass extinction event and drastic human population decline of the previous millennium commenly known as "The Great Collapse"**
 
 *Transcribed recording of lecture by Prof. Sabine Gilenna at the 6th annual Pre Civilisation Conference, 14th June 3167.*
 
-![illustration](./assets/beacon_illustration.png)
+___
+
 
 Welcome, all. Today, I will briefly overview current discourse surrounding "The Great Collapse" era and the "Beacons". Then present new insight into the beacons technology and a novel theory based on this and newly restored historical documents.
 
